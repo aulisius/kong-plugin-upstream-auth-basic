@@ -4,3 +4,4 @@
 *.src.rock
 *.src.rock
 .DS_Store
+*.so
